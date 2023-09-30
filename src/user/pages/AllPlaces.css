@@ -1,0 +1,35 @@
+.h2{
+    margin-left: 45%;
+    color: rgb(69, 68, 140);
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: -1px;
+    font-size: xx-large;
+}
+.center{
+    margin-left: 10%;
+}
+
+.q{
+    margin-left: 30.5%;
+    color: rgb(188, 87, 193);
+    font-size: 28px;
+    font-weight: 650;
+
+}
+.photo2{
+    margin-left: 15%;
+    border-top-left-radius: 20%;
+    border-bottom-left-radius: 20%;
+    padding: 2px;
+}
+
+.photo3{
+    padding: 2px;
+}
+
+.photo4{
+    border-top-right-radius: 20%;
+    border-bottom-right-radius: 20%;
+    padding: 2px;
+}
